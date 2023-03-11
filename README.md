@@ -1,0 +1,3 @@
+# HashCode_2017_qualification_round
+
+https://github.com/christianmarescalco/HashCode_2017_qualification_round/blob/main/hashcode_2017_qualification_round.pdf
